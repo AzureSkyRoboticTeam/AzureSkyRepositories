@@ -9,3 +9,6 @@ AzureSky 九霄战队项目集合
 - [下位机电控](https://github.com/jiayudw/basic_framework_azure)
 - [英雄步兵上位机](https://github.com/jiayudw/FYT2024_vision.git)
 - [哨兵上位机器](https://github.com/WuSkySky/sentry_ws.git)
+
+##### 2025福建省智能机器人巡航赛
+- [上位机](https://github.com/WuSkySky/originbot_ws.git)
